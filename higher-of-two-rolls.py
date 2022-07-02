@@ -1,3 +1,5 @@
+# Slightly less terrible code
+
 from random import randint
 from statistics import mean
 
